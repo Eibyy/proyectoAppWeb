@@ -1,0 +1,6 @@
+.logo{
+    width: 200px;
+    cursor:pointer;
+    backdrop-filter: blur(30px); /* Ajusta el valor para controlar el nivel de desenfoque */
+    border-radius: 10px;
+}

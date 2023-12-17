@@ -1,0 +1,10 @@
+.article-title input {
+    display: flex;
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    justify-content: center;
+    margin: auto;
+}
